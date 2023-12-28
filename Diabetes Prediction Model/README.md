@@ -1,1 +1,1 @@
-
+Using random forest, forward and backward subset selection, and methods based on the BRFSS diabetes data set to identify factors with the greatest predictive effect on diabetes among the US population.
